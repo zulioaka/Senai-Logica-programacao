@@ -30,3 +30,9 @@ $nomedoestudante = 'Helena'
 // atribui o tipo de acordo com o valor
 <br>
 // Helena é o valor
+<br>
+<br>
+<br>
+Var senha = a1234 <br>
+if (senha = a1234) console.log "bem-vindo" <br>
+//console.log é um comando para exibir uma mensagem <br>
