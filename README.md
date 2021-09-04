@@ -9,14 +9,23 @@ console.log (" "); Serve para mostrar a informação
 <h3> Variaveis e constantes </h3>
 // linguagem X
 var nomeDoEstudante: String = "Helena";
-// var é a declaração de variável
-// nomeDoEstudante é o nome atribuído
-// string é o tipo de dado, pois é formado de caracteres
-// Helena é o valor
 <br>
+// var é a declaração de variável
+<br>
+// nomeDoEstudante é o nome atribuído
+<br>
+// string é o tipo de dado, pois é formado de caracteres
+<br>
+// Helena é o valor
+<br> <br> <br>
 //linguagem Y
+<br>
 $nomedoestudante = 'Helena'
+<br>
 // $ é a declaração de variável
+<br>
 // nomedoestudante é o nome atribuído
+<br>
 // atribui o tipo de acordo com o valor
+<br>
 // Helena é o valor
