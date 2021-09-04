@@ -33,6 +33,21 @@ $nomedoestudante = 'Helena'
 <br>
 <br>
 <br>
+COMANDO SE (IF)
+<br>
 Var senha = a1234 <br>
 if (senha = a1234) console.log "bem-vindo" <br>
-//console.log é um comando para exibir uma mensagem <br>
+//console.log é um comando para exibir uma mensagem <br> <br>
+COMANDO SE/SE NÃO (IF/ELSE) <br>
+Var senha = a1234
+if (senha = a1234) console.log "bem-vindo"
+else console.log "senha incorreta"<br> <br>
+COMANDO SE ANINHADO (IF/ELSE IF/ELSE)
+<br> <Br>
+Var login = fulano <Br>
+Var senha = a1234 <br>
+if (login = fulano) console.log "digite a senha" <br>
+else if (senha = a1234) console.log "bem-vindo" <br>
+else console.log "login ou senha incorretos"<br> <br>
+           
+           
