@@ -8,6 +8,7 @@ console.log (" "); Serve para mostrar a informação
 <br>
 <h3> Variaveis e constantes </h3>
 // linguagem X
+<br> <br>
 var nomeDoEstudante: String = "Helena";
 <br>
 // var é a declaração de variável
