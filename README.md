@@ -1,5 +1,5 @@
 # Senai-Logica-programacao
 
-<h1> Logica de programação </h1>
+<h3> Logica de programação </h3>
 <br>
 console.log (" "); Serve para mostrar a informação
